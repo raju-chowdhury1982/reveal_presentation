@@ -5,3 +5,11 @@ we'll create it in two categories  as follows:
 
 first for persons involved to to the tasks and their job role
 second the flow in which the survey perform
+
+The Dept involved hereof:
+* Marketing
+* BPO
+* HRD
+* IT
+* Accounts
+* Field Operation for capturing the survey data
