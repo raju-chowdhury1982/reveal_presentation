@@ -13,3 +13,6 @@ The Dept involved hereof:
 * IT
 * Accounts
 * Field Operation for capturing the survey data
+
+
+Work flow and how all things are mangae
